@@ -1,0 +1,19 @@
+.header-one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.start-boot{
+    display: flex;
+    align-items: center;
+}
+.list-item{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+.cards-btn{
+    border: 1px solid black;
+    border-radius: 10px;
+}
